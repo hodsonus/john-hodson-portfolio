@@ -9,6 +9,7 @@
   <meta name="description" content="{{ if .IsHome }}{{ .Site.Params.description }}{{else}}{{ .Description }}{{ end }}">
   <meta property="og:description" content="{{ if .IsHome }}{{ .Site.Params.description }}{{else}}{{ .Description }}{{ end }}" />
   <meta name="author" content="{{ .Site.Params.firstName }} {{ .Site.Params.lastName }}">
+  <link rel="shortcut icon" href="{{ .Site.Params.favicon }}">
   <!-- Bootstrap core CSS -->
   <link rel="preload" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0/css/bootstrap.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0/css/bootstrap.min.css">
