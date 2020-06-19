@@ -2,11 +2,10 @@
   {
       "grouping":"Architecture & Systems",
       "skills":[
+        "Web Development",
         "RESTful APIs",
-        "SaaS",
         "Microservices",
-        "Embedded Systems",
-        "Web Development"
+        "Embedded Systems"
       ]
   },
   {
@@ -16,6 +15,7 @@
         "Python",
         "Java",
         "C",
+        "Assembly (AVR, ARM)",
         "OCaml",
         "C++"
       ]
@@ -39,7 +39,7 @@
       ]
   },
   {
-      "grouping":"Operating Systems, Containers & Cloud",
+      "grouping":"Operating Systems, Containers, & Cloud",
       "skills":[
         "Linux",
         {"name":"MacOS","icon":"apple"},
