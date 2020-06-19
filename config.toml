@@ -1,5 +1,5 @@
 title = "John W Hodson"
-baseURL = "http://hodsonus.com/"
+baseURL = "//hodsonus.github.io/"
 theme = "hugo-resume"
 languageCode = "en-us"
 PygmentsCodeFences = true
