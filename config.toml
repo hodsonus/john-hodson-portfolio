@@ -18,7 +18,7 @@ profileImage = "/profile.jpg"
 showEducation = true
 showExperience = true
 showOpenSource = false
-showProjects = true
+showProjects = false
 showPublications = false
 showQr = true
 showSkills = true
@@ -32,7 +32,7 @@ link = "https://github.com/hodsonus/"
 name = "GitHub"
 
 [[params.handles]]
-link = "https://keybase.io/"
+link = "https://keybase.io/hodsonus/"
 name = "Keybase"
 
 [outputs]
