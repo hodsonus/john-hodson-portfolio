@@ -44,8 +44,8 @@
         "Linux",
         {"name":"MacOS","icon":"apple"},
         "Windows",
-        {"name":"Docker"},
-        {"name":"Azure"}
+        "Docker",
+        "Azure"
       ]
   }
 ]

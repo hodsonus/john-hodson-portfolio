@@ -17,9 +17,9 @@ phone = "(727)-348-2899"
 profileImage = "/profile.jpg"
 showEducation = true
 showExperience = true
-showOpenSource = false
-showProjects = false
-showPublications = false
+showOpenSource = true
+showProjects = true
+showPublications = true
 showQr = true
 showSkills = true
 
